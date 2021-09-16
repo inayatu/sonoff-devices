@@ -1,0 +1,10 @@
+{
+  "port": 3333,
+  "db_uri": "mongodb://localhost:27017/leon-sonoff",
+  "email": "",
+  "password": "",
+  "region": "as",
+  "app_id": "",
+  "api_key": "",
+  "api_secret": ""
+}
